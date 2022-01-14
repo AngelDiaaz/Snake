@@ -77,8 +77,7 @@ public class Manzana {
 		return false;
 	}
 
-	// (int)(Math.random()*GameView.getA()) (int)(Math.random()*GameView.getB())
-	// la serpiente también sabe pintarse
+	// la manzana también sabe pintarse
 	public void pintarse(Graphics2D g) {
 		int iCont;
 

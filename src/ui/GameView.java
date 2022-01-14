@@ -163,7 +163,7 @@ public class GameView extends Thread {
 		} else if (seleccion.equals("Intermedio")) {
 			dificultad = 20;
 		} else if (seleccion.equals("Dificil")) {
-			dificultad = 8;
+			dificultad = 10;
 		} else if (seleccion.equals("Imposible")) {
 			dificultad = 1;
 		}
